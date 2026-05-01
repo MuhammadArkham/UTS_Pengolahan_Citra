@@ -20,7 +20,7 @@ Segmentasi citra adalah proses memisahkan suatu citra menjadi beberapa bagian (r
 
 ---
 
-## 🛠️ Dependensi
+##  Dependensi
 
 ```bash
 pip install opencv-python numpy matplotlib scikit-image scipy
