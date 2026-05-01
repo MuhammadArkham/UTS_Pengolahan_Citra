@@ -1,10 +1,5 @@
 # UTS_Pengolahan_Citra
 
-NAMA : MUHAMMAD ARKHAMULLAH RIFAI ASSHIDIQ
-NIM : 312410545
-
-# 🚗 Praktikum 8 UTS — Pengolahan Citra Digital
-### Segmentasi Citra dengan Python & OpenCV
 
 | | |
 |---|---|
@@ -17,7 +12,7 @@ NIM : 312410545
 
 ---
 
-## 📌 Deskripsi
+##  Deskripsi
 
 Praktikum ini mengimplementasikan berbagai metode **segmentasi citra digital** menggunakan Python, OpenCV, dan scikit-image. Input yang digunakan adalah **gambar mobil berwarna** yang dikonversi ke grayscale sebelum diproses.
 
@@ -41,7 +36,7 @@ pip install opencv-python numpy matplotlib scikit-image scipy
 
 ---
 
-## ▶️ Cara Menjalankan
+##  Cara Menjalankan
 
 ```bash
 # Clone repository
@@ -59,7 +54,7 @@ Program akan otomatis menghasilkan **9 file gambar output** di folder yang sama.
 
 ---
 
-## 🖼️ Input
+##  Input
 
 Gambar yang digunakan adalah foto **5 mobil berwarna** (hijau, merah, biru, kuning, pink) yang ditumpuk secara vertikal dengan latar belakang putih. Gambar dikonversi ke **grayscale 512×512 piksel** sebelum diproses.
 
@@ -69,7 +64,7 @@ Intensitas: min=0, max=255, mean=197.1
 
 ---
 
-## 📊 Hasil & Penjelasan
+##  Hasil & Penjelasan
 
 ### 1. Thresholding
 
@@ -247,7 +242,7 @@ UTS_PENGOLAHAN-CITRA/
 
 ---
 
-## 📝 Kesimpulan Umum
+##  Kesimpulan Umum
 
 | Metode | Kelebihan | Kekurangan |
 |---|---|---|
