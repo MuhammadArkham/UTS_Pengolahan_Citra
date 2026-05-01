@@ -6,7 +6,7 @@
 | **Mata Kuliah** | Pengolahan Citra |
 | **Dosen** | Muhamad Fatchan, S.Kom., M.Kom. |
 | **Nama** | Afdhal Agislam |
-| **NIM** | 312410445 |
+| **NIM** | 312410545 |
 | **Kelas** | I241E |
 | **Program Studi** | Teknik Informatika — Universitas Pelita Bangsa |
 
