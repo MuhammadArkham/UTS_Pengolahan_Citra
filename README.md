@@ -68,9 +68,9 @@ Intensitas: min=0, max=255, mean=197.1
 
 ### 1. Thresholding
 
-![Thresholding](out_1_thresholding.png)
+![Thresholding](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_1_thresholding%20(1).png?raw=true)
 
-![Histogram](out_1_histogram.png)
+![Histogram](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_1_histogram%20(1).png?raw=true)
 
 Thresholding adalah metode segmentasi paling sederhana — setiap piksel diklasifikasikan menjadi **objek (putih)** atau **background (hitam)** berdasarkan nilai intensitasnya.
 
@@ -88,9 +88,9 @@ Tiga metode yang diuji:
 
 ### 2. Region Growing
 
-![Region Growing](out_2_region_growing.png)
+![Region Growing](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_2_region_growing%20(1).png?raw=true)
 
-![Multi Region](out_2b_multiregion.png)
+![Multi Region](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_2b_multiregion%20(1).png?raw=true)
 
 Region Growing adalah metode segmentasi berbasis piksel yang tumbuh dari titik awal (seed). Algoritma menggunakan **BFS (Breadth-First Search)** dengan 8-konektivitas.
 
@@ -119,7 +119,7 @@ Region Growing adalah metode segmentasi berbasis piksel yang tumbuh dari titik a
 
 ### 3. Deteksi Tepi
 
-![Deteksi Tepi](out_3_deteksi_tepi.png)
+![Deteksi Tepi](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_3_deteksi_tepi%20(1).png?raw=true)
 
 Deteksi tepi bertujuan menemukan batas/kontur objek dalam citra dengan mendeteksi perubahan intensitas yang tajam.
 
@@ -141,9 +141,9 @@ Deteksi tepi bertujuan menemukan batas/kontur objek dalam citra dengan mendeteks
 
 ### 4. K-Means Clustering
 
-![K-Means](out_4_kmeans.png)
+![K-Means](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_4_kmeans%20(1).png?raw=true)
 
-![K-Means Color](out_4b_kmeans_color.png)
+![K-Means Color](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_4b_kmeans_color%20(1).png?raw=true)
 
 K-Means mengelompokkan piksel berdasarkan kemiripan intensitas. Setiap piksel dianggap sebagai titik data 1D dan dikelompokkan ke dalam K cluster.
 
@@ -169,7 +169,7 @@ K-Means mengelompokkan piksel berdasarkan kemiripan intensitas. Setiap piksel di
 
 ### 5. Watershed Segmentation
 
-![Watershed](out_5_watershed.png)
+![Watershed](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_5_watershed%20(1).png?raw=true)
 
 Watershed adalah metode segmentasi berbasis topografi — citra dianggap seperti peta ketinggian dan "air" mengalir dari titik terendah.
 
@@ -188,8 +188,7 @@ Watershed adalah metode segmentasi berbasis topografi — citra dianggap seperti
 
 ### 6. Evaluasi Segmentasi
 
-![Evaluasi](out_6_evaluasi.png)
-
+![Evaluasi](https://github.com/MuhammadArkham/UTS_Pengolahan_Citra/blob/main/pengolahan_citra/out_6_evaluasi%20(1).png?raw=true)
 Evaluasi mengukur seberapa akurat hasil segmentasi dibandingkan dengan **ground truth** (area yang benar). Ground truth yang digunakan adalah area badan mobil pink (mobil paling bawah).
 
 **Metrik evaluasi:**
