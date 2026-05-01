@@ -5,7 +5,7 @@
 |---|---|
 | **Mata Kuliah** | Pengolahan Citra |
 | **Dosen** | Muhamad Fatchan, S.Kom., M.Kom. |
-| **Nama** | Afdhal Agislam |
+| **Nama** | Muhammad Arkhamullah Rifai Asshidiq  |
 | **NIM** | 312410545 |
 | **Kelas** | I241E |
 | **Program Studi** | Teknik Informatika — Universitas Pelita Bangsa |
